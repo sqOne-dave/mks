@@ -3,7 +3,7 @@
 
 Just an simple script to create an new bash file.
 It creates the file, gives it execution rights and opens it, in vi, 
-and as soon as you close vi, it does execute it. 
+and as soon as you close vi and executes it. 
 You may choose every editor you want.  
 
 Usage: 
